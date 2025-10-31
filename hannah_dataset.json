@@ -1,0 +1,498 @@
+[
+  {
+    "sentence": "Depois de semanas tentando resolver o problema, o código finalmente rodou sem erros, e por um instante tudo pareceu fazer sentido, mas então percebi que o resultado não correspondia ao esperado.",
+    "segmented_text": "<HAPPY-Start>Depois de semanas tentando resolver o problema, o código finalmente rodou sem erros, e por um instante tudo pareceu fazer sentido<HAPPY-End><SAD-Start>, mas então percebi que o resultado não correspondia ao esperado.<SAD-End>"
+  },
+  {
+    "sentence": "As crianças corriam pelo parque, rindo alto e espalhando folhas pelo chão, até que o trovão estrondou e todos correram para se abrigar.",
+    "segmented_text": "<HAPPY-Start>As crianças corriam pelo parque, rindo alto e espalhando folhas pelo chão<HAPPY-End><FEAR-Start>, até que o trovão estrondou e todos correram para se abrigar.<FEAR-End>"
+  },
+  {
+    "sentence": "Eu esperava encontrar a casa como a deixei, mas ao abrir a porta, tudo estava vazio e o eco das minhas lembranças foi a única resposta.",
+    "segmented_text": "<NEUTRAL-Start>Eu esperava encontrar a casa como a deixei<NEUTRAL-End><SAD-Start>, mas ao abrir a porta, tudo estava vazio e o eco das minhas lembranças foi a única resposta.<SAD-End>"
+  },
+  {
+    "sentence": "Quando vi o presente na mesa, meu coração se encheu de curiosidade, e ao desembrulhar, percebi que era exatamente o que eu queria.",
+    "segmented_text": "<SURPRISE-Start>Quando vi o presente na mesa, meu coração se encheu de curiosidade<SURPRISE-End><HAPPY-Start>, e ao desembrulhar, percebi que era exatamente o que eu queria.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele bateu a porta com tanta força que o som ecoou por todo o corredor, mas logo depois respirou fundo e se sentou em silêncio.",
+    "segmented_text": "<ANGRY-Start>Ele bateu a porta com tanta força que o som ecoou por todo o corredor<ANGRY-End><NEUTRAL-Start>, mas logo depois respirou fundo e se sentou em silêncio.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Eu ria das histórias antigas que meu avô contava, até que percebi que ele as repetia porque já não se lembrava de tê-las dito antes.",
+    "segmented_text": "<HAPPY-Start>Eu ria das histórias antigas que meu avô contava<HAPPY-End><SAD-Start>, até que percebi que ele as repetia porque já não se lembrava de tê-las dito antes.<SAD-End>"
+  },
+  {
+    "sentence": "A chuva começou de repente, ensopando todos na praça, e por um momento, o caos virou uma grande brincadeira entre estranhos.",
+    "segmented_text": "<SURPRISE-Start>A chuva começou de repente, ensopando todos na praça<SURPRISE-End><HAPPY-Start>, e por um momento, o caos virou uma grande brincadeira entre estranhos.<HAPPY-End>"
+  },
+  {
+    "sentence": "Eu me escondi atrás da cortina quando ouvi passos se aproximando, mas era apenas o vento abrindo a janela.",
+    "segmented_text": "<FEAR-Start>Eu me escondi atrás da cortina quando ouvi passos se aproximando<FEAR-End><NEUTRAL-Start>, mas era apenas o vento abrindo a janela.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Passei horas preparando o jantar, experimentando sabores e decorando a mesa, e ninguém apareceu.",
+    "segmented_text": "<HAPPY-Start>Passei horas preparando o jantar, experimentando sabores e decorando a mesa<HAPPY-End><SAD-Start>, e ninguém apareceu.<SAD-End>"
+  },
+  {
+    "sentence": "O gerente gritou comigo na frente de todos, e eu senti o rosto queimar, mas depois decidi responder com calma e seguir em frente.",
+    "segmented_text": "<ANGRY-Start>O gerente gritou comigo na frente de todos, e eu senti o rosto queimar<ANGRY-End><NEUTRAL-Start>, mas depois decidi responder com calma e seguir em frente.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ela segurava o boletim com as mãos trêmulas, certa de que viria uma nota baixa, e quase chorou ao ver o dez vermelho brilhando no papel.",
+    "segmented_text": "<FEAR-Start>Ela segurava o boletim com as mãos trêmulas, certa de que viria uma nota baixa<FEAR-End><SURPRISE-Start>, e quase chorou ao ver o dez vermelho brilhando no papel.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Eu tremia de raiva com as palavras que ouvi, mas sua expressão sincera me fez hesitar e baixar a voz.",
+    "segmented_text": "<ANGRY-Start>Eu tremia de raiva com as palavras que ouvi<ANGRY-End><NEUTRAL-Start>, mas sua expressão sincera me fez hesitar e baixar a voz.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O avião balançou de forma assustadora no meio da tempestade, e quando pousou, todos se aplaudiram rindo nervosamente.",
+    "segmented_text": "<FEAR-Start>O avião balançou de forma assustadora no meio da tempestade<FEAR-End><HAPPY-Start>, e quando pousou, todos se aplaudiram rindo nervosamente.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ela abriu o e-mail esperando uma boa notícia, mas o texto frio e objetivo dizia que a vaga havia sido preenchida.",
+    "segmented_text": "<HAPPY-Start>Ela abriu o e-mail esperando uma boa notícia<HAPPY-End><SAD-Start>, mas o texto frio e objetivo dizia que a vaga havia sido preenchida.<SAD-End>"
+  },
+  {
+    "sentence": "O silêncio era tão profundo que cada estalo do relógio parecia um grito, até que de repente a porta se abriu sozinha.",
+    "segmented_text": "<FEAR-Start>O silêncio era tão profundo que cada estalo do relógio parecia um grito<FEAR-End><SURPRISE-Start>, até que de repente a porta se abriu sozinha.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ele entrou na sala e começou a gritar com todos, derrubando papéis e xingando, até que se deu conta do próprio exagero.",
+    "segmented_text": "<ANGRY-Start>Ele entrou na sala e começou a gritar com todos, derrubando papéis e xingando<ANGRY-End><NEUTRAL-Start>, até que se deu conta do próprio exagero.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Senti um frio na barriga ao ver o palco se iluminar, e quando comecei a cantar, o público inteiro acompanhou em coro.",
+    "segmented_text": "<FEAR-Start>Senti um frio na barriga ao ver o palco se iluminar<FEAR-End><HAPPY-Start>, e quando comecei a cantar, o público inteiro acompanhou em coro.<HAPPY-End>"
+  },
+  {
+    "sentence": "O relógio marcou meia-noite, as luzes se apagaram de repente, e um grito atravessou o salão antes de todos começarem a rir.",
+    "segmented_text": "<SURPRISE-Start>O relógio marcou meia-noite, as luzes se apagaram de repente, e um grito atravessou o salão<SURPRISE-End><HAPPY-Start>, antes de todos começarem a rir.<HAPPY-End>"
+  },
+  {
+    "sentence": "Depois de dias de tensão, a ligação finalmente veio, e a notícia era boa demais para acreditar.",
+    "segmented_text": "<FEAR-Start>Depois de dias de tensão<FEAR-End><SURPRISE-Start>, a ligação finalmente veio, e a notícia era boa demais para acreditar.<SURPRISE-End>"
+  },
+  {
+    "sentence": "O barulho do motor falhando me deixou em pânico, mas o mecânico disse que era só falta de combustível.",
+    "segmented_text": "<FEAR-Start>O barulho do motor falhando me deixou em pânico<FEAR-End><NEUTRAL-Start>, mas o mecânico disse que era só falta de combustível.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ele falava alto, gesticulando com raiva, até que a risada inesperada da filha o desarmou completamente.",
+    "segmented_text": "<ANGRY-Start>Ele falava alto, gesticulando com raiva<ANGRY-End><HAPPY-Start>, até que a risada inesperada da filha o desarmou completamente.<HAPPY-End>"
+  },
+  {
+    "sentence": "A professora anunciou uma prova surpresa, e todos começaram a reclamar, mas logo descobriram que era apenas uma brincadeira.",
+    "segmented_text": "<SURPRISE-Start>A professora anunciou uma prova surpresa<SURPRISE-End><ANGRY-Start>, e todos começaram a reclamar<ANGRY-End><HAPPY-Start>, mas logo descobriram que era apenas uma brincadeira.<HAPPY-End>"
+  },
+  {
+    "sentence": "Eu estava concentrado em terminar o relatório, quando de repente o computador travou e apagou tudo.",
+    "segmented_text": "<NEUTRAL-Start>Eu estava concentrado em terminar o relatório<NEUTRAL-End><SAD-Start>, quando de repente o computador travou e apagou tudo.<SAD-End>"
+  },
+  {
+    "sentence": "O grito no corredor me fez congelar, e quando abri a porta, era apenas o gato derrubando uma garrafa.",
+    "segmented_text": "<FEAR-Start>O grito no corredor me fez congelar<FEAR-End><NEUTRAL-Start>, e quando abri a porta, era apenas o gato derrubando uma garrafa.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "A equipe comemorava o gol com entusiasmo, até que o árbitro levantou a bandeira anulando o lance.",
+    "segmented_text": "<HAPPY-Start>A equipe comemorava o gol com entusiasmo<HAPPY-End><SAD-Start>, até que o árbitro levantou a bandeira anulando o lance.<SAD-End>"
+  },
+  {
+    "sentence": "Ela sorria ao ver as fotos antigas, lembrando das viagens, até que encontrou uma que preferia ter esquecido.",
+    "segmented_text": "<HAPPY-Start>Ela sorria ao ver as fotos antigas, lembrando das viagens<HAPPY-End><SAD-Start>, até que encontrou uma que preferia ter esquecido.<SAD-End>"
+  },
+  {
+    "sentence": "O barulho súbito do portão abrindo fez todos se virarem assustados, e a risada do entregador que entrou depois aliviou o clima.",
+    "segmented_text": "<FEAR-Start>O barulho súbito do portão abrindo fez todos se virarem assustados<FEAR-End><HAPPY-Start>, e a risada do entregador que entrou depois aliviou o clima.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele ficou parado olhando para o boletim, surpreso com a nota perfeita, e em seguida levantou os braços comemorando.",
+    "segmented_text": "<SURPRISE-Start>Ele ficou parado olhando para o boletim, surpreso com a nota perfeita<SURPRISE-End><HAPPY-Start>, e em seguida levantou os braços comemorando.<HAPPY-End>"
+  },
+  {
+    "sentence": "As luzes piscavam de forma estranha no corredor vazio, e um som metálico ecoava cada vez mais perto.",
+    "segmented_text": "<NEUTRAL-Start>As luzes piscavam de forma estranha no corredor vazio<NEUTRAL-End><FEAR-Start>, e um som metálico ecoava cada vez mais perto.<FEAR-End>"
+  },
+  {
+    "sentence": "Ele finalmente recebeu o prêmio que esperava há anos, mas olhou para o público e não viu ninguém conhecido para dividir o momento.",
+    "segmented_text": "<HAPPY-Start>Ele finalmente recebeu o prêmio que esperava há anos<HAPPY-End><SAD-Start>, mas olhou para o público e não viu ninguém conhecido para dividir o momento.<SAD-End>"
+  },
+  {
+    "sentence": "Ela bateu na mesa e gritou, cansada de ser ignorada, e depois ficou em silêncio, respirando fundo e olhando para o chão.",
+    "segmented_text": "<ANGRY-Start>Ela bateu na mesa e gritou, cansada de ser ignorada<ANGRY-End><NEUTRAL-Start>, e depois ficou em silêncio, respirando fundo e olhando para o chão.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O telefone tocou tarde da noite, e o número desconhecido fez meu estômago revirar antes mesmo de atender.",
+    "segmented_text": "<FEAR-Start>O telefone tocou tarde da noite, e o número desconhecido fez meu estômago revirar<FEAR-End><NEUTRAL-Start>, antes mesmo de atender.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O alarme disparou de repente e todos correram para fora, mas logo perceberam que era apenas um teste do sistema.",
+    "segmented_text": "<SURPRISE-Start>O alarme disparou de repente e todos correram para fora<SURPRISE-End><NEUTRAL-Start>, mas logo perceberam que era apenas um teste do sistema.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ela tremia de medo ao ouvir o barulho no quintal, até que viu o pequeno filhote saindo do arbusto abanando o rabo.",
+    "segmented_text": "<FEAR-Start>Ela tremia de medo ao ouvir o barulho no quintal<FEAR-End><HAPPY-Start>, até que viu o pequeno filhote saindo do arbusto abanando o rabo.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele riu alto com a piada, mas o olhar sério do chefe fez o sorriso desaparecer rapidamente.",
+    "segmented_text": "<HAPPY-Start>Ele riu alto com a piada<HAPPY-End><SAD-Start>, mas o olhar sério do chefe fez o sorriso desaparecer rapidamente.<SAD-End>"
+  },
+  {
+    "sentence": "O grupo gritava empolgado pela vitória, quando o juiz anunciou que o placar havia sido computado errado.",
+    "segmented_text": "<HAPPY-Start>O grupo gritava empolgado pela vitória<HAPPY-End><SURPRISE-Start>, quando o juiz anunciou que o placar havia sido computado errado.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ela olhava fixamente para o mar, lembrando de tudo que passou, até que uma onda mais forte a molhou dos pés à cabeça.",
+    "segmented_text": "<SAD-Start>Ela olhava fixamente para o mar, lembrando de tudo que passou<SAD-End><SURPRISE-Start>, até que uma onda mais forte a molhou dos pés à cabeça.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ele entrou no escritório com um sorriso confiante, mas a expressão fria do diretor fez seu estômago revirar.",
+    "segmented_text": "<HAPPY-Start>Ele entrou no escritório com um sorriso confiante<HAPPY-End><FEAR-Start>, mas a expressão fria do diretor fez seu estômago revirar.<FEAR-End>"
+  },
+  {
+    "sentence": "A sala estava em silêncio absoluto, até que um barulho alto vindo do teto fez todos se levantarem assustados.",
+    "segmented_text": "<NEUTRAL-Start>A sala estava em silêncio absoluto<NEUTRAL-End><SURPRISE-Start>, até que um barulho alto vindo do teto fez todos se levantarem assustados.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ela caminhava tranquila pela calçada, até que um carro passou rápido demais e a água da poça a cobriu completamente.",
+    "segmented_text": "<NEUTRAL-Start>Ela caminhava tranquila pela calçada<NEUTRAL-End><SURPRISE-Start>, até que um carro passou rápido demais e a água da poça a cobriu completamente.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Eu assistia à tempestade pela janela, perdido em pensamentos, quando um raio iluminou o céu e revelou algo se movendo no jardim.",
+    "segmented_text": "<NEUTRAL-Start>Eu assistia à tempestade pela janela, perdido em pensamentos<NEUTRAL-End><FEAR-Start>, quando um raio iluminou o céu e revelou algo se movendo no jardim.<FEAR-End>"
+  },
+
+
+
+
+  {
+    "sentence": "O dia começou calmo, com o som dos pássaros pela janela, mas bastou um telefonema para tudo desandar.",
+    "segmented_text": "<NEUTRAL-Start>O dia começou calmo, com o som dos pássaros pela janela<NEUTRAL-End><ANGRY-Start>, mas bastou um telefonema para tudo desandar.<ANGRY-End>"
+  },
+  {
+    "sentence": "Ele falava com confiança diante da plateia, até que uma gargalhada no fundo da sala o fez perder o fio da fala.",
+    "segmented_text": "<HAPPY-Start>Ele falava com confiança diante da plateia<HAPPY-End><SAD-Start>, até que uma gargalhada no fundo da sala o fez perder o fio da fala.<SAD-End>"
+  },
+  {
+    "sentence": "O silêncio do hospital era quase sufocante, e cada passo ecoava como se anunciasse algo terrível.",
+    "segmented_text": "<NEUTRAL-Start>O silêncio do hospital era quase sufocante<NEUTRAL-End><FEAR-Start>, e cada passo ecoava como se anunciasse algo terrível.<FEAR-End>"
+  },
+  {
+    "sentence": "Ela abriu o portão sorrindo ao ver o carro estacionar, mas o olhar distante dele apagou qualquer alegria.",
+    "segmented_text": "<HAPPY-Start>Ela abriu o portão sorrindo ao ver o carro estacionar<HAPPY-End><SAD-Start>, mas o olhar distante dele apagou qualquer alegria.<SAD-End>"
+  },
+  {
+    "sentence": "Depois de meses de esforço, o projeto foi aprovado, e todos comemoraram, até perceberem o erro na última linha do relatório.",
+    "segmented_text": "<HAPPY-Start>Depois de meses de esforço, o projeto foi aprovado, e todos comemoraram<HAPPY-End><SURPRISE-Start>, até perceberem o erro na última linha do relatório.<SURPRISE-End>"
+  },
+  {
+    "sentence": "O som dos aplausos encheu o teatro, mas seu coração apertou ao lembrar quem não estava ali para assistir.",
+    "segmented_text": "<HAPPY-Start>O som dos aplausos encheu o teatro<HAPPY-End><SAD-Start>, mas seu coração apertou ao lembrar quem não estava ali para assistir.<SAD-End>"
+  },
+  {
+    "sentence": "Ela tentou sorrir diante da câmera, escondendo as lágrimas que insistiam em brotar.",
+    "segmented_text": "<HAPPY-Start>Ela tentou sorrir diante da câmera<HAPPY-End><SAD-Start>, escondendo as lágrimas que insistiam em brotar.<SAD-End>"
+  },
+  {
+    "sentence": "O barulho da explosão fez todos se abaixarem instintivamente, e logo o riso nervoso tomou conta da sala.",
+    "segmented_text": "<FEAR-Start>O barulho da explosão fez todos se abaixarem instintivamente<FEAR-End><HAPPY-Start>, e logo o riso nervoso tomou conta da sala.<HAPPY-End>"
+  },
+  {
+    "sentence": "A festa estava animada, com luzes e música alta, até que a energia caiu e o salão mergulhou no escuro.",
+    "segmented_text": "<HAPPY-Start>A festa estava animada, com luzes e música alta<HAPPY-End><SURPRISE-Start>, até que a energia caiu e o salão mergulhou no escuro.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ele gritava com o atendente no balcão, mas quando percebeu os olhares em volta, baixou o tom e pediu desculpas.",
+    "segmented_text": "<ANGRY-Start>Ele gritava com o atendente no balcão<ANGRY-End><NEUTRAL-Start>, mas quando percebeu os olhares em volta, baixou o tom e pediu desculpas.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "A notícia inesperada fez seu estômago revirar, mas logo o alívio tomou o lugar da tensão.",
+    "segmented_text": "<SURPRISE-Start>A notícia inesperada fez seu estômago revirar<SURPRISE-End><HAPPY-Start>, mas logo o alívio tomou o lugar da tensão.<HAPPY-End>"
+  },
+  {
+    "sentence": "O barulho atrás da porta a fez recuar, e quando ela abriu, um gato assustado saiu correndo pelo corredor.",
+    "segmented_text": "<FEAR-Start>O barulho atrás da porta a fez recuar<FEAR-End><SURPRISE-Start>, e quando ela abriu, um gato assustado saiu correndo pelo corredor.<SURPRISE-End>"
+  },
+  {
+    "sentence": "O relógio marcava as horas lentamente, enquanto ele observava a chuva cair sem vontade de se mover.",
+    "segmented_text": "<NEUTRAL-Start>O relógio marcava as horas lentamente<NEUTRAL-End><SAD-Start>, enquanto ele observava a chuva cair sem vontade de se mover.<SAD-End>"
+  },
+  {
+    "sentence": "Ela correu para atender o telefone imaginando boas notícias, mas a voz do outro lado soava fria e distante.",
+    "segmented_text": "<HAPPY-Start>Ela correu para atender o telefone imaginando boas notícias<HAPPY-End><SAD-Start>, mas a voz do outro lado soava fria e distante.<SAD-End>"
+  },
+  {
+    "sentence": "O alarme tocou no meio da madrugada, e o coração dela disparou, até perceber que era apenas o celular descarregando.",
+    "segmented_text": "<FEAR-Start>O alarme tocou no meio da madrugada, e o coração dela disparou<FEAR-End><NEUTRAL-Start>, até perceber que era apenas o celular descarregando.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O cliente levantou a voz exigindo ser atendido, e a funcionária respondeu com um sorriso educado, tentando manter a calma.",
+    "segmented_text": "<ANGRY-Start>O cliente levantou a voz exigindo ser atendido<ANGRY-End><NEUTRAL-Start>, e a funcionária respondeu com um sorriso educado, tentando manter a calma.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O riso alto preencheu a sala quando a surpresa foi revelada, mas a expressão no rosto dele mostrava algo diferente.",
+    "segmented_text": "<HAPPY-Start>O riso alto preencheu a sala quando a surpresa foi revelada<HAPPY-End><SAD-Start>, mas a expressão no rosto dele mostrava algo diferente.<SAD-End>"
+  },
+  {
+    "sentence": "Ela observava o pôr do sol tranquila, até que o som de passos atrás dela a fez se virar rapidamente.",
+    "segmented_text": "<NEUTRAL-Start>Ela observava o pôr do sol tranquila<NEUTRAL-End><FEAR-Start>, até que o som de passos atrás dela a fez se virar rapidamente.<FEAR-End>"
+  },
+  {
+    "sentence": "Ele caminhava pelo corredor escuro tentando não fazer barulho, até que uma luz piscou e revelou um rosto conhecido.",
+    "segmented_text": "<FEAR-Start>Ele caminhava pelo corredor escuro tentando não fazer barulho<FEAR-End><SURPRISE-Start>, até que uma luz piscou e revelou um rosto conhecido.<SURPRISE-End>"
+  },
+  {
+    "sentence": "O som da risada infantil preencheu o quintal, e por um instante, tudo pareceu como antes, até o vento fechar o portão sozinho.",
+    "segmented_text": "<HAPPY-Start>O som da risada infantil preencheu o quintal, e por um instante, tudo pareceu como antes<HAPPY-End><SURPRISE-Start>, até o vento fechar o portão sozinho.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ela estava concentrada lendo o contrato, quando uma mensagem no celular a fez franzir a testa e fechar o documento.",
+    "segmented_text": "<NEUTRAL-Start>Ela estava concentrada lendo o contrato<NEUTRAL-End><SURPRISE-Start>, quando uma mensagem no celular a fez franzir a testa e fechar o documento.<SURPRISE-End>"
+  },
+  {
+    "sentence": "O cão latiu ferozmente para o portão, e quando o dono foi ver, era apenas uma sacola balançando ao vento.",
+    "segmented_text": "<FEAR-Start>O cão latiu ferozmente para o portão<FEAR-End><NEUTRAL-Start>, e quando o dono foi ver, era apenas uma sacola balançando ao vento.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ele ergueu o troféu com orgulho, os aplausos ecoaram, mas um vazio estranho crescia dentro dele.",
+    "segmented_text": "<HAPPY-Start>Ele ergueu o troféu com orgulho, os aplausos ecoaram<HAPPY-End><SAD-Start>, mas um vazio estranho crescia dentro dele.<SAD-End>"
+  },
+  {
+    "sentence": "A mensagem inesperada no celular o fez sorrir, até perceber que havia sido enviada por engano.",
+    "segmented_text": "<SURPRISE-Start>A mensagem inesperada no celular o fez sorrir<SURPRISE-End><SAD-Start>, até perceber que havia sido enviada por engano.<SAD-End>"
+  },
+  {
+    "sentence": "Ele discutia com o irmão sobre quem tinha razão, até que ambos começaram a rir da própria teimosia.",
+    "segmented_text": "<ANGRY-Start>Ele discutia com o irmão sobre quem tinha razão<ANGRY-End><HAPPY-Start>, até que ambos começaram a rir da própria teimosia.<HAPPY-End>"
+  },
+  {
+    "sentence": "O trovão ecoou tão forte que ela deixou o copo cair, e a risada nervosa veio logo em seguida.",
+    "segmented_text": "<FEAR-Start>O trovão ecoou tão forte que ela deixou o copo cair<FEAR-End><HAPPY-Start>, e a risada nervosa veio logo em seguida.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele olhou o relógio aliviado ao perceber que ainda tinha tempo, mas a porta do metrô se fechou diante dele.",
+    "segmented_text": "<HAPPY-Start>Ele olhou o relógio aliviado ao perceber que ainda tinha tempo<HAPPY-End><SAD-Start>, mas a porta do metrô se fechou diante dele.<SAD-End>"
+  },
+  {
+    "sentence": "A professora anunciou uma prova surpresa, e o murmúrio de espanto foi seguido por sorrisos quando ela revelou que valia ponto extra.",
+    "segmented_text": "<SURPRISE-Start>A professora anunciou uma prova surpresa<SURPRISE-End><HAPPY-Start>, e o murmúrio de espanto foi seguido por sorrisos quando ela revelou que valia ponto extra.<HAPPY-End>"
+  },
+  {
+    "sentence": "O barulho do vidro quebrando fez todos se levantarem assustados, até perceberem que era apenas o gato pulando na mesa.",
+    "segmented_text": "<FEAR-Start>O barulho do vidro quebrando fez todos se levantarem assustados<FEAR-End><NEUTRAL-Start>, até perceberem que era apenas o gato pulando na mesa.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O chefe elogiou o relatório com entusiasmo, mas terminou dizendo que outro colega ficaria com o crédito.",
+    "segmented_text": "<HAPPY-Start>O chefe elogiou o relatório com entusiasmo<HAPPY-End><ANGRY-Start>, mas terminou dizendo que outro colega ficaria com o crédito.<ANGRY-End>"
+  },
+  {
+    "sentence": "Ela fechou o livro satisfeita com o final, até que notou uma página solta caindo no chão com uma nova revelação.",
+    "segmented_text": "<HAPPY-Start>Ela fechou o livro satisfeita com o final<HAPPY-End><SURPRISE-Start>, até que notou uma página solta caindo no chão com uma nova revelação.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ele caminhava tranquilo pela rua, quando um carro freou bruscamente atrás dele e o som do pneu o fez pular de susto.",
+    "segmented_text": "<NEUTRAL-Start>Ele caminhava tranquilo pela rua<NEUTRAL-End><FEAR-Start>, quando um carro freou bruscamente atrás dele e o som do pneu o fez pular de susto.<FEAR-End>"
+  },
+  {
+    "sentence": "O público vibrou com a apresentação, até que o cantor esqueceu a letra e todos ficaram em silêncio.",
+    "segmented_text": "<HAPPY-Start>O público vibrou com a apresentação<HAPPY-End><SURPRISE-Start>, até que o cantor esqueceu a letra e todos ficaram em silêncio.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ele bateu a porta ao sair da reunião, e minutos depois voltou pedindo desculpas e oferecendo ajuda.",
+    "segmented_text": "<ANGRY-Start>Ele bateu a porta ao sair da reunião<ANGRY-End><NEUTRAL-Start>, e minutos depois voltou pedindo desculpas e oferecendo ajuda.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "O gol nos acréscimos fez a torcida explodir de alegria, mas a anulação pelo árbitro gerou vaias e protestos.",
+    "segmented_text": "<HAPPY-Start>O gol nos acréscimos fez a torcida explodir de alegria<HAPPY-End><ANGRY-Start>, mas a anulação pelo árbitro gerou vaias e protestos.<ANGRY-End>"
+  },
+  {
+    "sentence": "Ela se apressou para abrir o presente com um sorriso, mas o conteúdo inesperado a deixou sem palavras.",
+    "segmented_text": "<HAPPY-Start>Ela se apressou para abrir o presente com um sorriso<HAPPY-End><SURPRISE-Start>, mas o conteúdo inesperado a deixou sem palavras.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ele observava o mar calmo e azul, quando um grito distante ecoou e o fez correr na direção do som.",
+    "segmented_text": "<NEUTRAL-Start>Ele observava o mar calmo e azul<NEUTRAL-End><FEAR-Start>, quando um grito distante ecoou e o fez correr na direção do som.<FEAR-End>"
+  },
+  {
+    "sentence": "A equipe comemorava a vitória com abraços, até que o técnico revelou que o resultado seria anulado por irregularidade.",
+    "segmented_text": "<HAPPY-Start>A equipe comemorava a vitória com abraços<HAPPY-End><SAD-Start>, até que o técnico revelou que o resultado seria anulado por irregularidade.<SAD-End>"
+  },
+  {
+    "sentence": "O barulho repentino vindo do sótão fez seu coração acelerar, mas ao subir as escadas, encontrou apenas uma janela aberta.",
+    "segmented_text": "<FEAR-Start>O barulho repentino vindo do sótão fez seu coração acelerar<FEAR-End><NEUTRAL-Start>, mas ao subir as escadas, encontrou apenas uma janela aberta.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ele explodiu em gritos no meio da reunião, e todos ficaram em silêncio até que ele se recompôs, envergonhado.",
+    "segmented_text": "<ANGRY-Start>Ele explodiu em gritos no meio da reunião<ANGRY-End><SAD-Start>, e todos ficaram em silêncio até que ele se recompôs, envergonhado.<SAD-End>"
+  },
+
+
+  
+
+  {
+    "sentence": "Depois de tanto esforço, finalmente concluí o projeto, mas a ausência de reconhecimento me deixou com um nó na garganta.",
+    "segmented_text": "<HAPPY-Start>Depois de tanto esforço, finalmente concluí o projeto<HAPPY-End><SAD-Start>, mas a ausência de reconhecimento me deixou com um nó na garganta.<SAD-End>"
+  },
+  {
+    "sentence": "A campainha tocou de repente no meio da noite, e por um instante pensei que algo terrível fosse acontecer, até perceber que era apenas o vizinho trazendo o pacote errado.",
+    "segmented_text": "<SURPRISE-Start>A campainha tocou de repente no meio da noite<SURPRISE-End><FEAR-Start>, e por um instante pensei que algo terrível fosse acontecer<FEAR-End><NEUTRAL-Start>, até perceber que era apenas o vizinho trazendo o pacote errado.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ele gritava tão alto que todos pararam o que faziam, mas logo percebeu que ninguém mais estava disposto a escutá-lo.",
+    "segmented_text": "<ANGRY-Start>Ele gritava tão alto que todos pararam o que faziam<ANGRY-End><SAD-Start>, mas logo percebeu que ninguém mais estava disposto a escutá-lo.<SAD-End>"
+  },
+  {
+    "sentence": "O trovão estourou sobre o telhado, e por um instante meu coração acelerou, mas depois percebi que a tempestade estava se afastando.",
+    "segmented_text": "<FEAR-Start>O trovão estourou sobre o telhado, e por um instante meu coração acelerou<FEAR-End><NEUTRAL-Start>, mas depois percebi que a tempestade estava se afastando.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ela abriu o envelope com as mãos trêmulas e, ao ver o resultado, um sorriso involuntário surgiu em seu rosto.",
+    "segmented_text": "<FEAR-Start>Ela abriu o envelope com as mãos trêmulas<FEAR-End><HAPPY-Start>e, ao ver o resultado, um sorriso involuntário surgiu em seu rosto.<HAPPY-End>"
+  },
+  {
+    "sentence": "Eu me sentia tranquilo observando o pôr do sol, até que uma lembrança antiga me fez desviar o olhar e suspirar.",
+    "segmented_text": "<NEUTRAL-Start>Eu me sentia tranquilo observando o pôr do sol<NEUTRAL-End><SAD-Start>, até que uma lembrança antiga me fez desviar o olhar e suspirar.<SAD-End>"
+  },
+  {
+    "sentence": "O barulho alto do motor me fez pular da cadeira, mas depois percebi que era apenas o vizinho ligando a moto.",
+    "segmented_text": "<SURPRISE-Start>O barulho alto do motor me fez pular da cadeira<SURPRISE-End><NEUTRAL-Start>, mas depois percebi que era apenas o vizinho ligando a moto.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ela esperava ansiosa pela resposta, e quando o telefone tocou, a notícia era melhor do que poderia imaginar.",
+    "segmented_text": "<FEAR-Start>Ela esperava ansiosa pela resposta<FEAR-End><HAPPY-Start>, e quando o telefone tocou, a notícia era melhor do que poderia imaginar.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele falava sem parar, batendo na mesa e interrompendo todos, até que percebeu o constrangimento geral e ficou em silêncio.",
+    "segmented_text": "<ANGRY-Start>Ele falava sem parar, batendo na mesa e interrompendo todos<ANGRY-End><NEUTRAL-Start>, até que percebeu o constrangimento geral e ficou em silêncio.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Eu observava o mar calmo, perdido em pensamentos, até que um raio cortou o céu e fez todos correrem para o abrigo.",
+    "segmented_text": "<NEUTRAL-Start>Eu observava o mar calmo, perdido em pensamentos<NEUTRAL-End><SURPRISE-Start>, até que um raio cortou o céu e fez todos correrem para o abrigo.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Ela riu alto com os amigos, aproveitando cada segundo, até lembrar que aquela seria a última vez que se veriam por muito tempo.",
+    "segmented_text": "<HAPPY-Start>Ela riu alto com os amigos, aproveitando cada segundo<HAPPY-End><SAD-Start>, até lembrar que aquela seria a última vez que se veriam por muito tempo.<SAD-End>"
+  },
+  {
+    "sentence": "O cachorro latiu furiosamente para a sombra atrás do portão, e por um instante pensei que alguém estivesse ali, mas era apenas o vento.",
+    "segmented_text": "<ANGRY-Start>O cachorro latiu furiosamente para a sombra atrás do portão<ANGRY-End><FEAR-Start>, e por um instante pensei que alguém estivesse ali<FEAR-End><NEUTRAL-Start>, mas era apenas o vento.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Quando vi o presente em cima da cama, meu coração disparou, e ao abrir, encontrei a carta que esperei por anos.",
+    "segmented_text": "<SURPRISE-Start>Quando vi o presente em cima da cama, meu coração disparou<SURPRISE-End><HAPPY-Start>, e ao abrir, encontrei a carta que esperei por anos.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele olhou para o boletim confiante, mas o vermelho intenso das notas o fez engolir seco.",
+    "segmented_text": "<HAPPY-Start>Ele olhou para o boletim confiante<HAPPY-End><SAD-Start>, mas o vermelho intenso das notas o fez engolir seco.<SAD-End>"
+  },
+  {
+    "sentence": "A discussão ficou cada vez mais acalorada, e antes que percebessem, todos estavam gritando uns com os outros.",
+    "segmented_text": "<NEUTRAL-Start>A discussão ficou cada vez mais acalorada<NEUTRAL-End><ANGRY-Start>, e antes que percebessem, todos estavam gritando uns com os outros.<ANGRY-End>"
+  },
+  {
+    "sentence": "O vento balançava as cortinas suavemente, e de repente uma figura passou rápido pela janela.",
+    "segmented_text": "<NEUTRAL-Start>O vento balançava as cortinas suavemente<NEUTRAL-End><FEAR-Start>, e de repente uma figura passou rápido pela janela.<FEAR-End>"
+  },
+  {
+    "sentence": "O estádio explodiu em aplausos quando o gol foi marcado, mas o juiz levantou a bandeira anulando o lance.",
+    "segmented_text": "<HAPPY-Start>O estádio explodiu em aplausos quando o gol foi marcado<HAPPY-End><SAD-Start>, mas o juiz levantou a bandeira anulando o lance.<SAD-End>"
+  },
+  {
+    "sentence": "Ela se aproximou do palco com passos trêmulos, o coração disparado, e ao ouvir os aplausos, as lágrimas vieram sem controle.",
+    "segmented_text": "<FEAR-Start>Ela se aproximou do palco com passos trêmulos, o coração disparado<FEAR-End><HAPPY-Start>, e ao ouvir os aplausos, as lágrimas vieram sem controle.<HAPPY-End>"
+  },
+  {
+    "sentence": "Eu bati na mesa com força, cansado de repetir o mesmo argumento, mas logo percebi que nada mudaria.",
+    "segmented_text": "<ANGRY-Start>Eu bati na mesa com força, cansado de repetir o mesmo argumento<ANGRY-End><SAD-Start>, mas logo percebi que nada mudaria.<SAD-End>"
+  },
+  {
+    "sentence": "O relógio marcava meia-noite e a casa estava silenciosa, até que um estrondo ecoou do andar de cima.",
+    "segmented_text": "<NEUTRAL-Start>O relógio marcava meia-noite e a casa estava silenciosa<NEUTRAL-End><SURPRISE-Start>, até que um estrondo ecoou do andar de cima.<SURPRISE-End>"
+  },
+  {
+    "sentence": "Depois de tanta espera, o trem finalmente chegou, e um alívio percorreu o corpo de todos na plataforma.",
+    "segmented_text": "<SAD-Start>Depois de tanta espera<SAD-End><HAPPY-Start>, o trem finalmente chegou, e um alívio percorreu o corpo de todos na plataforma.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele tremia ao ver o portão se abrindo lentamente, e um sorriso de alívio apareceu quando reconheceu o rosto amigo.",
+    "segmented_text": "<FEAR-Start>Ele tremia ao ver o portão se abrindo lentamente<FEAR-End><HAPPY-Start>, e um sorriso de alívio apareceu quando reconheceu o rosto amigo.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ela entrou confiante na sala de reuniões, mas as expressões sérias a fizeram engolir o nervosismo.",
+    "segmented_text": "<HAPPY-Start>Ela entrou confiante na sala de reuniões<HAPPY-End><FEAR-Start>, mas as expressões sérias a fizeram engolir o nervosismo.<FEAR-End>"
+  },
+  {
+    "sentence": "O som do vidro quebrando me fez saltar da cadeira, e a visão do gato pulando da janela me fez rir de nervoso.",
+    "segmented_text": "<SURPRISE-Start>O som do vidro quebrando me fez saltar da cadeira<SURPRISE-End><HAPPY-Start>, e a visão do gato pulando da janela me fez rir de nervoso.<HAPPY-End>"
+  },
+  {
+    "sentence": "A briga começou com palavras duras e terminou com portas batendo e silêncio pesado.",
+    "segmented_text": "<ANGRY-Start>A briga começou com palavras duras<ANGRY-End><SAD-Start>e terminou com portas batendo e silêncio pesado.<SAD-End>"
+  },
+  {
+    "sentence": "Ele sorria ao lembrar das férias, até que a lembrança do último dia o fez encarar o chão em silêncio.",
+    "segmented_text": "<HAPPY-Start>Ele sorria ao lembrar das férias<HAPPY-End><SAD-Start>, até que a lembrança do último dia o fez encarar o chão em silêncio.<SAD-End>"
+  },
+  {
+    "sentence": "O som repentino da sirene cortou o ar da madrugada, e a rua se encheu de gente assustada espiando pelas janelas.",
+    "segmented_text": "<SURPRISE-Start>O som repentino da sirene cortou o ar da madrugada<SURPRISE-End><FEAR-Start>, e a rua se encheu de gente assustada espiando pelas janelas.<FEAR-End>"
+  },
+  {
+    "sentence": "Ele ria do próprio tropeço, mas ao notar os olhares em volta, ficou vermelho e tentou disfarçar.",
+    "segmented_text": "<HAPPY-Start>Ele ria do próprio tropeço<HAPPY-End><SAD-Start>, mas ao notar os olhares em volta, ficou vermelho e tentou disfarçar.<SAD-End>"
+  },
+  {
+    "sentence": "A música parou de repente, e todos olharam ao redor, até que o som voltou e o salão explodiu em aplausos.",
+    "segmented_text": "<SURPRISE-Start>A música parou de repente, e todos olharam ao redor<SURPRISE-End><HAPPY-Start>, até que o som voltou e o salão explodiu em aplausos.<HAPPY-End>"
+  },
+  {
+    "sentence": "O vento batia na janela, e o balanço das árvores parecia sussurrar algo que eu não queria entender.",
+    "segmented_text": "<NEUTRAL-Start>O vento batia na janela<NEUTRAL-End><FEAR-Start>, e o balanço das árvores parecia sussurrar algo que eu não queria entender.<FEAR-End>"
+  },
+  {
+    "sentence": "Ela observava as luzes da cidade brilhando, até que uma lágrima escorreu sem aviso.",
+    "segmented_text": "<NEUTRAL-Start>Ela observava as luzes da cidade brilhando<NEUTRAL-End><SAD-Start>, até que uma lágrima escorreu sem aviso.<SAD-End>"
+  },
+  {
+    "sentence": "O barulho alto vindo da cozinha me fez correr, e encontrei o bolo queimado e a fumaça subindo pelo teto.",
+    "segmented_text": "<SURPRISE-Start>O barulho alto vindo da cozinha me fez correr<SURPRISE-End><SAD-Start>, e encontrei o bolo queimado e a fumaça subindo pelo teto.<SAD-End>"
+  },
+  {
+    "sentence": "Eu caminhava tranquilo pela praça, quando uma bola acertou minhas costas e um grupo de crianças começou a rir.",
+    "segmented_text": "<NEUTRAL-Start>Eu caminhava tranquilo pela praça<NEUTRAL-End><SURPRISE-Start>, quando uma bola acertou minhas costas<SURPRISE-End><HAPPY-Start>, e um grupo de crianças começou a rir.<HAPPY-End>"
+  },
+  {
+    "sentence": "O som do alarme me fez pular da cama, e o coração disparou até perceber que era apenas o despertador atrasado.",
+    "segmented_text": "<FEAR-Start>O som do alarme me fez pular da cama<FEAR-End><NEUTRAL-Start>, e o coração disparou até perceber que era apenas o despertador atrasado.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "Ele levantou a voz, furioso com a injustiça, mas depois respirou fundo e decidiu sair da sala em silêncio.",
+    "segmented_text": "<ANGRY-Start>Ele levantou a voz, furioso com a injustiça<ANGRY-End><NEUTRAL-Start>, mas depois respirou fundo e decidiu sair da sala em silêncio.<NEUTRAL-End>"
+  },
+  {
+    "sentence": "As risadas ecoavam pelo corredor, até que um grito distante silenciou todos de uma vez.",
+    "segmented_text": "<HAPPY-Start>As risadas ecoavam pelo corredor<HAPPY-End><FEAR-Start>, até que um grito distante silenciou todos de uma vez.<FEAR-End>"
+  },
+  {
+    "sentence": "O carro parou de repente no meio da estrada escura, e por um instante o silêncio pareceu mais assustador que o som.",
+    "segmented_text": "<SURPRISE-Start>O carro parou de repente no meio da estrada escura<SURPRISE-End><FEAR-Start>, e por um instante o silêncio pareceu mais assustador que o som.<FEAR-End>"
+  },
+  {
+    "sentence": "Ela olhou para o bolo na mesa e sorriu, até lembrar que a pessoa para quem o fez não viria mais.",
+    "segmented_text": "<HAPPY-Start>Ela olhou para o bolo na mesa e sorriu<HAPPY-End><SAD-Start>, até lembrar que a pessoa para quem o fez não viria mais.<SAD-End>"
+  },
+  {
+    "sentence": "O som do portão abrindo fez todos se levantarem, e a surpresa foi ver o amigo voltando mais cedo do que esperavam.",
+    "segmented_text": "<SURPRISE-Start>O som do portão abrindo fez todos se levantarem<SURPRISE-End><HAPPY-Start>, e a surpresa foi ver o amigo voltando mais cedo do que esperavam.<HAPPY-End>"
+  },
+  {
+    "sentence": "Ele tentou manter a calma diante das acusações, mas o tom agressivo do colega fez o sangue ferver.",
+    "segmented_text": "<NEUTRAL-Start>Ele tentou manter a calma diante das acusações<NEUTRAL-End><ANGRY-Start>, mas o tom agressivo do colega fez o sangue ferver.<ANGRY-End>"
+  },
+  {
+    "sentence": "A notícia inesperada deixou todos em silêncio, até que alguém começou a rir nervosamente sem saber o que dizer.",
+    "segmented_text": "<SURPRISE-Start>A notícia inesperada deixou todos em silêncio<SURPRISE-End><NEUTRAL-Start>, até que alguém começou a rir nervosamente sem saber o que dizer.<NEUTRAL-End>"
+  }
+]
