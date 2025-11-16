@@ -913,5 +913,340 @@
   {
     "sentence": "Depois de pensar que perderia o documento para sempre, senti um alívio enorme ao encontrá-lo, mas ainda restava o receio de que estivesse corrompido.",
     "segmented_text": "<TRISTE-Inicio>Depois de pensar que perderia o documento para sempre<TRISTE-Fim><FELIZ-Inicio>, senti um alívio enorme ao encontrá-lo<FELIZ-Fim><MEDO-Inicio>, mas ainda restava o receio de que estivesse corrompido.<MEDO-Fim>"
+  },
+  {
+    "sentence": "Ao perceber que havia enviado o e-mail para o destinatário errado, meu estômago afundou, mas quando notei que a mensagem não continha nada sensível, consegui respirar, embora ainda tivesse que redigir tudo de novo.",
+    "segmented_text": "<MEDO-Inicio>Ao perceber que havia enviado o e-mail para o destinatário errado, meu estômago afundou<MEDO-Fim><FELIZ-Inicio>, mas quando notei que a mensagem não continha nada sensível, consegui respirar<FELIZ-Fim><NEUTRO-Inicio>, embora ainda tivesse que redigir tudo de novo.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava satisfeito por finalmente organizar minha mesa, até encontrar aquela pilha de documentos atrasados, o que me desanimou de imediato.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito por finalmente organizar minha mesa<FELIZ-Fim><SAD-Inicio>, até encontrar aquela pilha de documentos atrasados, o que me desanimou de imediato.<SAD-Fim>"
+  },
+  {
+    "sentence": "O estrondo repentino vindo da cozinha me fez congelar, mas quando percebi que era só a janela batendo, segui meu dia como se nada tivesse acontecido.",
+    "segmented_text": "<MEDO-Inicio>O estrondo repentino vindo da cozinha me fez congelar<MEDO-Fim><NEUTRO-Inicio>, mas quando percebi que era só a janela batendo, segui meu dia como se nada tivesse acontecido.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava irritado com a fila enorme do supermercado, mas acabei sorrindo quando o caixa elogiou minha paciência antes de seguir para as compras restantes.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava irritado com a fila enorme do supermercado<RAIVA-Fim><FELIZ-Inicio>, mas acabei sorrindo quando o caixa elogiou minha paciência<FELIZ-Fim><NEUTRO-Inicio>, antes de seguir para as compras restantes.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Quando vi o aviso de entrega atrasada, fiquei decepcionado, mas logo me surpreendi ao receber uma notificação dizendo que o pacote seria entregue ainda hoje.",
+    "segmented_text": "<SAD-Inicio>Quando vi o aviso de entrega atrasada, fiquei decepcionado<SAD-Fim><SURPRESA-Inicio>, mas logo me surpreendi ao receber uma notificação dizendo que o pacote seria entregue ainda hoje.<SURPRESA-Fim>"
+  },
+
+  {
+    "sentence": "O toque inesperado do telefone no meio da madrugada me deixou tenso, porém ao atender e descobrir que era apenas um amigo confuso com o fuso horário, voltei para a cama exausto.",
+    "segmented_text": "<MEDO-Inicio>O toque inesperado do telefone no meio da madrugada me deixou tenso<MEDO-Fim><NEUTRO-Inicio>, porém ao atender e descobrir que era apenas um amigo confuso com o fuso horário, voltei para a cama exausto.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Estava radiante por concluir o projeto cedo, mas desanimei completamente ao notar que havia usado a versão errada do arquivo.",
+    "segmented_text": "<FELIZ-Inicio>Estava radiante por concluir o projeto cedo<FELIZ-Fim><SAD-Inicio>, mas desanimei completamente ao notar que havia usado a versão errada do arquivo.<SAD-Fim>"
+  },
+  {
+    "sentence": "Assim que percebi que o supervisor se aproximava rapidamente, temi ter esquecido alguma tarefa, mas ele só queria confirmar um horário.",
+    "segmented_text": "<MEDO-Inicio>Assim que percebi que o supervisor se aproximava rapidamente, temi ter esquecido alguma tarefa<MEDO-Fim><NEUTRO-Inicio>, mas ele só queria confirmar um horário.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "O atraso do ônibus me irritou profundamente, embora eu tenha acabado rindo quando percebi que todos os passageiros estavam reclamando em coro.",
+    "segmented_text": "<RAIVA-Inicio>O atraso do ônibus me irritou profundamente<RAIVA-Fim><FELIZ-Inicio>, embora eu tenha acabado rindo quando percebi que todos os passageiros estavam reclamando em coro.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "Eu caminhava tranquilo pela praça até que um estampido ecoou ao longe, e depois de alguns instantes percebi que era apenas um teste de fogos.",
+    "segmented_text": "<NEUTRO-Inicio>Eu caminhava tranquilo pela praça<NEUTRO-Fim><MEDO-Inicio>até que um estampido ecoou ao longe<MEDO-Fim><NEUTRO-Inicio>, e depois de alguns instantes percebi que era apenas um teste de fogos.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Quando encontrei minha carteira perdida, senti um alívio imediato, embora ficasse chateado ao perceber que o dinheiro havia sumido.",
+    "segmented_text": "<FELIZ-Inicio>Quando encontrei minha carteira perdida, senti um alívio imediato<FELIZ-Fim><SAD-Inicio>, embora ficasse chateado ao perceber que o dinheiro havia sumido.<SAD-Fim>"
+  },
+  {
+    "sentence": "O barulho repentino do alarme me deixou apavorado, mas quando vi que era apenas um teste, pude continuar meu dia normalmente.",
+    "segmented_text": "<MEDO-Inicio>O barulho repentino do alarme me deixou apavorado<MEDO-Fim><NEUTRO-Inicio>, mas quando vi que era apenas um teste, pude continuar meu dia normalmente.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava contente com o progresso da reforma até perceber que o pedreiro havia usado a cor errada de tinta.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava contente com o progresso da reforma<FELIZ-Fim><RAIVA-Inicio>até perceber que o pedreiro havia usado a cor errada de tinta.<RAIVA-Fim>"
+  },
+  {
+    "sentence": "Ao abrir a porta e encontrar o corredor vazio, senti meu coração acelerar sem motivo aparente, mas rapidamente voltei ao meu trabalho.",
+    "segmented_text": "<MEDO-Inicio>Ao abrir a porta e encontrar o corredor vazio, senti meu coração acelerar sem motivo aparente<MEDO-Fim><NEUTRO-Inicio>, mas rapidamente voltei ao meu trabalho.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "A surpresa de receber um pacote inesperado foi enorme, embora eu tenha ficado confuso ao perceber que não havia nome de remetente.",
+    "segmented_text": "<SURPRESA-Inicio>A surpresa de receber um pacote inesperado foi enorme<SURPRESA-Fim><NEUTRO-Inicio>, embora eu tenha ficado confuso ao perceber que não havia nome de remetente.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Eu estava furioso com o descaso no atendimento, mas acabei me acalmando quando outro funcionário resolveu o problema com paciência.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava furioso com o descaso no atendimento<RAIVA-Fim><FELIZ-Inicio>, mas acabei me acalmando quando outro funcionário resolveu o problema com paciência.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "O cheiro de queimado vindo da cozinha me deixou apreensivo, porém ao verificar vi que era apenas o pão torrado demais.",
+    "segmented_text": "<MEDO-Inicio>O cheiro de queimado vindo da cozinha me deixou apreensivo<MEDO-Fim><NEUTRO-Inicio>, porém ao verificar vi que era apenas o pão torrado demais.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava animado para mostrar minha apresentação, mas fiquei devastado quando o computador travou exatamente no momento da exibição.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava animado para mostrar minha apresentação<FELIZ-Fim><SAD-Inicio>, mas fiquei devastado quando o computador travou exatamente no momento da exibição.<SAD-Fim>"
+  },
+  {
+    "sentence": "O estranho movimento na cortina me deixou inquieto, até perceber que era apenas o vento passando pelas frestas.",
+    "segmented_text": "<MEDO-Inicio>O estranho movimento na cortina me deixou inquieto<MEDO-Fim><NEUTRO-Inicio>, até perceber que era apenas o vento passando pelas frestas.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Assim que o anúncio apareceu na tela, senti uma alegria súbita, mas ela se desfez quando percebi que a promoção já havia expirado.",
+    "segmented_text": "<FELIZ-Inicio>Assim que o anúncio apareceu na tela, senti uma alegria súbita<FELIZ-Fim><SAD-Inicio>, mas ela se desfez quando percebi que a promoção já havia expirado.<SAD-Fim>"
+  },
+
+  {
+    "sentence": "Eu estava prestes a reclamar da demora quando vi que o atendente estava claramente sobrecarregado, e então apenas esperei em silêncio.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava prestes a reclamar da demora<RAIVA-Fim><NEUTRO-Inicio>quando vi que o atendente estava claramente sobrecarregado, e então apenas esperei em silêncio.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "O barulho vindo da garagem fez minha respiração falhar, embora minutos depois eu tenha descoberto que era só a bicicleta caída.",
+    "segmented_text": "<MEDO-Inicio>O barulho vindo da garagem fez minha respiração falhar<MEDO-Fim><NEUTRO-Inicio>, embora minutos depois eu tenha descoberto que era só a bicicleta caída.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Fiquei animado ao ver que meu nome estava na lista de selecionados, mas o entusiasmo diminuiu ao notar que o evento seria em outra cidade.",
+    "segmented_text": "<FELIZ-Inicio>Fiquei animado ao ver que meu nome estava na lista de selecionados<FELIZ-Fim><SAD-Inicio>, mas o entusiasmo diminuiu ao notar que o evento seria em outra cidade.<SAD-Fim>"
+  },
+  {
+    "sentence": "A porta rangendo atrás de mim me deixou desconfortável, mas era apenas o vento atravessando o corredor.",
+    "segmented_text": "<MEDO-Inicio>A porta rangendo atrás de mim me deixou desconfortável<MEDO-Fim><NEUTRO-Inicio>, mas era apenas o vento atravessando o corredor.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava indignado com a cobrança indevida, mas logo me tranquilizei ao ver que o suporte resolveu tudo rapidamente.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava indignado com a cobrança indevida<RAIVA-Fim><FELIZ-Inicio>, mas logo me tranquilizei ao ver que o suporte resolveu tudo rapidamente.<FELIZ-Fim>"
+  },
+
+  {
+    "sentence": "O silêncio repentino na sala me deixou apreensivo, até notar que todos estavam apenas concentrados demais.",
+    "segmented_text": "<MEDO-Inicio>O silêncio repentino na sala me deixou apreensivo<MEDO-Fim><NEUTRO-Inicio>, até notar que todos estavam apenas concentrados demais.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava satisfeito com meu progresso no curso, mas quase desabei quando percebi que tinha esquecido de enviar a avaliação final.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito com meu progresso no curso<FELIZ-Fim><SAD-Inicio>, mas quase desabei quando percebi que tinha esquecido de enviar a avaliação final.<SAD-Fim>"
+  },
+  {
+    "sentence": "O anúncio inesperado sobre a mudança de horário me deixou surpreso, mas não alterou em nada a rotina do meu dia.",
+    "segmented_text": "<SURPRESA-Inicio>O anúncio inesperado sobre a mudança de horário me deixou surpreso<SURPRESA-Fim><NEUTRO-Inicio>, mas não alterou em nada a rotina do meu dia.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Assim que percebi que haviam perdido meu formulário, senti uma onda de irritação, embora logo depois outro funcionário tenha resolvido tudo rapidamente.",
+    "segmented_text": "<RAIVA-Inicio>Assim que percebi que haviam perdido meu formulário, senti uma onda de irritação<RAIVA-Fim><FELIZ-Inicio>, embora logo depois outro funcionário tenha resolvido tudo rapidamente.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "Eu caminhava tranquilo até sentir que alguém me observava, mas ao virar, vi apenas um grupo conversando sem prestar atenção em mim.",
+    "segmented_text": "<NEUTRO-Inicio>Eu caminhava tranquilo<NEUTRO-Fim><MEDO-Inicio>até sentir que alguém me observava<MEDO-Fim><NEUTRO-Inicio>, mas ao virar, vi apenas um grupo conversando sem prestar atenção em mim.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Estava contente por ter um tempo livre, mas a alegria se apagou quando percebi que tinha esquecido um compromisso importante.",
+    "segmented_text": "<FELIZ-Inicio>Estava contente por ter um tempo livre<FELIZ-Fim><SAD-Inicio>, mas a alegria se apagou quando percebi que tinha esquecido um compromisso importante.<SAD-Fim>"
+  },
+  {
+    "sentence": "A movimentação inesperada no quintal fez meu coração disparar, mas ao verificar, encontrei apenas o cachorro do vizinho explorando tudo.",
+    "segmented_text": "<MEDO-Inicio>A movimentação inesperada no quintal fez meu coração disparar<MEDO-Fim><NEUTRO-Inicio>, mas ao verificar, encontrei apenas o cachorro do vizinho explorando tudo.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava orgulhoso do meu progresso, mas fiquei desanimado ao notar que meu esforço ainda não seria suficiente para atingir o prazo.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava orgulhoso do meu progresso<FELIZ-Fim><SAD-Inicio>, mas fiquei desanimado ao notar que meu esforço ainda não seria suficiente para atingir o prazo.<SAD-Fim>"
+  },
+  {
+    "sentence": "A explosão distante me fez estremecer, mas rapidamente concluí que era apenas uma obra na rua de trás.",
+    "segmented_text": "<MEDO-Inicio>A explosão distante me fez estremecer<MEDO-Fim><NEUTRO-Inicio>, mas rapidamente concluí que era apenas uma obra na rua de trás.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava enfurecido com a discussão, mas fui surpreendido quando a pessoa pediu desculpas antes mesmo que eu pudesse responder.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava enfurecido com a discussão<RAIVA-Fim><SURPRESA-Inicio>, mas fui surpreendido quando a pessoa pediu desculpas antes mesmo que eu pudesse responder.<SURPRESA-Fim>"
+  },
+
+  {
+    "sentence": "Ao receber a notificação de que meu cadastro havia sido aprovado, senti uma onda de alívio, até lembrar das etapas seguintes que ainda precisariam ser concluídas.",
+    "segmented_text": "<FELIZ-Inicio>Ao receber a notificação de que meu cadastro havia sido aprovado, senti uma onda de alívio<FELIZ-Fim><NEUTRO-Inicio>, até lembrar das etapas seguintes que ainda precisariam ser concluídas.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "O barulho de passos atrás de mim me deixou tenso, mas ao virar e ver que era apenas um colega distraído, minha preocupação desapareceu.",
+    "segmented_text": "<MEDO-Inicio>O barulho de passos atrás de mim me deixou tenso<MEDO-Fim><NEUTRO-Inicio>, mas ao virar e ver que era apenas um colega distraído, minha preocupação desapareceu.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Fiquei animado com a possibilidade de viajar, mas logo me frustrei ao ver que as passagens estavam muito além do meu orçamento.",
+    "segmented_text": "<FELIZ-Inicio>Fiquei animado com a possibilidade de viajar<FELIZ-Fim><SAD-Inicio>, mas logo me frustrei ao ver que as passagens estavam muito além do meu orçamento.<SAD-Fim>"
+  },
+  {
+    "sentence": "A mensagem inesperada me deixou surpreso, embora o conteúdo fosse apenas uma confirmação de rotina.",
+    "segmented_text": "<SURPRESA-Inicio>A mensagem inesperada me deixou surpreso<SURPRESA-Fim><NEUTRO-Inicio>, embora o conteúdo fosse apenas uma confirmação de rotina.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava impaciente com a demora do atendimento, mas sorri quando o funcionário me agradeceu pela compreensão.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava impaciente com a demora do atendimento<RAIVA-Fim><FELIZ-Inicio>, mas sorri quando o funcionário me agradeceu pela compreensão.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "Eu estava satisfeito com o silêncio da casa, até ouvir um estalo na sala, o que me deixou tenso por alguns segundos, antes de perceber que era apenas o móvel acomodando.",
+    "segmented_text": "<NEUTRO-Inicio>Eu estava satisfeito com o silêncio da casa<NEUTRO-Fim><MEDO-Inicio>até ouvir um estalo na sala, o que me deixou tenso por alguns segundos<MEDO-Fim><NEUTRO-Inicio>, antes de perceber que era apenas o móvel acomodando.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "A alegria de encontrar meu livro favorito na prateleira me tomou por completo, embora ficasse frustrado ao perceber que alguém havia arrancado algumas páginas.",
+    "segmented_text": "<FELIZ-Inicio>A alegria de encontrar meu livro favorito na prateleira me tomou por completo<FELIZ-Fim><SAD-Inicio>, embora ficasse frustrado ao perceber que alguém havia arrancado algumas páginas.<SAD-Fim>"
+  },
+  {
+    "sentence": "O alerta repentino no celular me fez pular, mas ao verificar, vi que era apenas uma promoção aleatória.",
+    "segmented_text": "<SURPRESA-Inicio>O alerta repentino no celular me fez pular<SURPRESA-Fim><NEUTRO-Inicio>, mas ao verificar, vi que era apenas uma promoção aleatória.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava indignado com o erro no relatório, porém me acalmei quando percebi que a correção levaria apenas alguns minutos.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava indignado com o erro no relatório<RAIVA-Fim><NEUTRO-Inicio>, porém me acalmei quando percebi que a correção levaria apenas alguns minutos.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Meu coração disparou quando ouvi passos no corredor, mas relaxei ao notar que era apenas o vizinho chegando tarde.",
+    "segmented_text": "<MEDO-Inicio>Meu coração disparou quando ouvi passos no corredor<MEDO-Fim><NEUTRO-Inicio>, mas relaxei ao notar que era apenas o vizinho chegando tarde.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Eu estava radiante com a aprovação do projeto, mas a alegria evaporou ao perceber que o prazo de execução havia sido reduzido pela metade.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava radiante com a aprovação do projeto<FELIZ-Fim><SAD-Inicio>, mas a alegria evaporou ao perceber que o prazo de execução havia sido reduzido pela metade.<SAD-Fim>"
+  },
+  {
+    "sentence": "A batida inesperada no vidro me assustou, mas logo ri ao ver que era só um pássaro curioso.",
+    "segmented_text": "<MEDO-Inicio>A batida inesperada no vidro me assustou<MEDO-Fim><FELIZ-Inicio>, mas logo ri ao ver que era só um pássaro curioso.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "Eu estava prestes a reclamar da comida fria, mas me surpreendi ao ver o garçom trazendo um novo prato antes mesmo que eu mencionasse algo.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava prestes a reclamar da comida fria<RAIVA-Fim><SURPRESA-Inicio>, mas me surpreendi ao ver o garçom trazendo um novo prato antes mesmo que eu mencionasse algo.<SURPRESA-Fim>"
+  },
+  {
+    "sentence": "O inesperado aumento na conta de luz me deixou furioso, mas ao conferir o histórico, percebi que havia deixado o aquecedor ligado por engano.",
+    "segmented_text": "<RAIVA-Inicio>O inesperado aumento na conta de luz me deixou furioso<RAIVA-Fim><NEUTRO-Inicio>, mas ao conferir o histórico, percebi que havia deixado o aquecedor ligado por engano.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava animado para começar meu novo hobby, mas perdi o entusiasmo ao ver que o material era mais difícil de usar do que eu imaginava.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava animado para começar meu novo hobby<FELIZ-Fim><SAD-Inicio>, mas perdi o entusiasmo ao ver que o material era mais difícil de usar do que eu imaginava.<SAD-Fim>"
+  },
+
+  {
+    "sentence": "A porta se fechou com força atrás de mim e senti um calafrio, até lembrar que a corrente de ar estava forte naquele dia.",
+    "segmented_text": "<MEDO-Inicio>A porta se fechou com força atrás de mim e senti um calafrio<MEDO-Fim><NEUTRO-Inicio>, até lembrar que a corrente de ar estava forte naquele dia.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava contente com meu desempenho na entrevista, mas fiquei arrasado ao receber a mensagem de que outra pessoa havia sido escolhida.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava contente com meu desempenho na entrevista<FELIZ-Fim><SAD-Inicio>, mas fiquei arrasado ao receber a mensagem de que outra pessoa havia sido escolhida.<SAD-Fim>"
+  },
+  {
+    "sentence": "A caixa misteriosa em frente à porta me deixou surpreso, até notar que era um engano e o endereço não correspondia ao meu.",
+    "segmented_text": "<SURPRESA-Inicio>A caixa misteriosa em frente à porta me deixou surpreso<SURPRESA-Fim><NEUTRO-Inicio>, até notar que era um engano e o endereço não correspondia ao meu.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava irritado com a falta de organização da equipe, mas acabei rindo quando todos começaram a tentar resolver o problema ao mesmo tempo.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava irritado com a falta de organização da equipe<RAIVA-Fim><FELIZ-Inicio>, mas acabei rindo quando todos começaram a tentar resolver o problema ao mesmo tempo.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "A sombra que passou pela janela me fez prender a respiração, mas era apenas uma nuvem encobrindo o sol.",
+    "segmented_text": "<MEDO-Inicio>A sombra que passou pela janela me fez prender a respiração<MEDO-Fim><NEUTRO-Inicio>, mas era apenas uma nuvem encobrindo o sol.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Fiquei empolgado ao ver que meu pacote finalmente havia saído para entrega, mas desanimei quando o status mudou para atrasado minutos depois.",
+    "segmented_text": "<FELIZ-Inicio>Fiquei empolgado ao ver que meu pacote finalmente havia saído para entrega<FELIZ-Fim><SAD-Inicio>, mas desanimei quando o status mudou para atrasado minutos depois.<SAD-Fim>"
+  },
+  {
+    "sentence": "O anúncio repentino da diretoria me pegou desprevenido, embora nada mudasse significativamente na minha rotina.",
+    "segmented_text": "<SURPRESA-Inicio>O anúncio repentino da diretoria me pegou desprevenido<SURPRESA-Fim><NEUTRO-Inicio>, embora nada mudasse significativamente na minha rotina.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava furioso com a situação no trânsito, mas acabei me acalmando ao ligar o rádio e ouvir minha música favorita.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava furioso com a situação no trânsito<RAIVA-Fim><FELIZ-Inicio>, mas acabei me acalmando ao ligar o rádio e ouvir minha música favorita.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "A notificação de emergência no celular me deixou em pânico, mas ao abrir, percebi que era apenas um teste do sistema.",
+    "segmented_text": "<MEDO-Inicio>A notificação de emergência no celular me deixou em pânico<MEDO-Fim><NEUTRO-Inicio>, mas ao abrir, percebi que era apenas um teste do sistema.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava satisfeito com o novo aplicativo, mas fiquei frustrado ao perceber que ele exigia permissões desnecessárias.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito com o novo aplicativo<FELIZ-Fim><SAD-Inicio>, mas fiquei frustrado ao perceber que ele exigia permissões desnecessárias.<SAD-Fim>"
+  },
+
+  {
+    "sentence": "A campainha tocou de forma brusca, me deixando inquieto, até que vi que era apenas o carteiro atrasado.",
+    "segmented_text": "<MEDO-Inicio>A campainha tocou de forma brusca, me deixando inquieto<MEDO-Fim><NEUTRO-Inicio>, até que vi que era apenas o carteiro atrasado.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava prestes a reclamar do barulho, mas me surpreendi quando percebi que havia uma banda ensaiando na rua ao lado.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava prestes a reclamar do barulho<RAIVA-Fim><SURPRESA-Inicio>, mas me surpreendi quando percebi que havia uma banda ensaiando na rua ao lado.<SURPRESA-Fim>"
+  },
+  {
+    "sentence": "Meu coração acelerou ao perceber que tinha perdido o ônibus, mas consegui relaxar ao ver que outro chegaria em poucos minutos.",
+    "segmented_text": "<SAD-Inicio>Meu coração acelerou ao perceber que tinha perdido o ônibus<SAD-Fim><FELIZ-Inicio>, mas consegui relaxar ao ver que outro chegaria em poucos minutos.<FELIZ-Fim>"
+  },
+  {
+    "sentence": "Eu estava frustrado com a longa fila, mas tudo mudou quando um funcionário abriu um novo caixa bem na minha frente.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava frustrado com a longa fila<RAIVA-Fim><SURPRESA-Inicio>, mas tudo mudou quando um funcionário abriu um novo caixa bem na minha frente.<SURPRESA-Fim>"
+  },
+  {
+    "sentence": "A ausência de barulho no apartamento me preocupou, até lembrar que os vizinhos estavam viajando naquele fim de semana.",
+    "segmented_text": "<MEDO-Inicio>A ausência de barulho no apartamento me preocupou<MEDO-Fim><NEUTRO-Inicio>, até lembrar que os vizinhos estavam viajando naquele fim de semana.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Eu fiquei animado ao encontrar uma vaga perto da entrada, mas me desanimei ao perceber que era exclusiva para deficientes.",
+    "segmented_text": "<FELIZ-Inicio>Eu fiquei animado ao encontrar uma vaga perto da entrada<FELIZ-Fim><SAD-Inicio>, mas me desanimei ao perceber que era exclusiva para deficientes.<SAD-Fim>"
+  },
+  {
+    "sentence": "O estrondo vindo da rua me assustou, mas logo percebi que era apenas um caminhão descarregando caixas.",
+    "segmented_text": "<MEDO-Inicio>O estrondo vindo da rua me assustou<MEDO-Fim><NEUTRO-Inicio>, mas logo percebi que era apenas um caminhão descarregando caixas.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava feliz por conseguir um desconto inesperado, embora ficasse surpreso ao descobrir que era válido por apenas um dia.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava feliz por conseguir um desconto inesperado<FELIZ-Fim><SURPRESA-Inicio>, embora ficasse surpreso ao descobrir que era válido por apenas um dia.<SURPRESA-Fim>"
+  },
+  {
+    "sentence": "A luz piscou de repente, me deixando apreensivo, mas logo voltou ao normal, como se nada tivesse acontecido.",
+    "segmented_text": "<MEDO-Inicio>A luz piscou de repente, me deixando apreensivo<MEDO-Fim><NEUTRO-Inicio>, mas logo voltou ao normal, como se nada tivesse acontecido.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava irritado por ter sido interrompido, mas acabei rindo ao ver que era apenas meu amigo tentando me assustar.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava irritado por ter sido interrompido<RAIVA-Fim><FELIZ-Inicio>, mas acabei rindo ao ver que era apenas meu amigo tentando me assustar.<FELIZ-Fim>"
+  },
+
+  {
+    "sentence": "Meu coração apertou ao ver a mensagem de urgência, mas relaxei quando descobri que era apenas uma dúvida simples.",
+    "segmented_text": "<MEDO-Inicio>Meu coração apertou ao ver a mensagem de urgência<MEDO-Fim><NEUTRO-Inicio>, mas relaxei quando descobri que era apenas uma dúvida simples.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava animado para cozinhar algo novo, mas fiquei chateado quando percebi que faltava o ingrediente principal.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava animado para cozinhar algo novo<FELIZ-Fim><SAD-Inicio>, mas fiquei chateado quando percebi que faltava o ingrediente principal.<SAD-Fim>"
+  },
+  {
+    "sentence": "A carta inesperada me surpreendeu, embora o conteúdo fosse apenas uma pesquisa de opinião.",
+    "segmented_text": "<SURPRESA-Inicio>A carta inesperada me surpreendeu<SURPRESA-Fim><NEUTRO-Inicio>, embora o conteúdo fosse apenas uma pesquisa de opinião.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava irritado com a sujeira acumulada na varanda, mas me surpreendi ao ver que a limpeza levou menos tempo que o esperado.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava irritado com a sujeira acumulada na varanda<RAIVA-Fim><SURPRESA-Inicio>, mas me surpreendi ao ver que a limpeza levou menos tempo que o esperado.<SURPRESA-Fim>"
+  },
+  {
+    "sentence": "O latido alto no meio da noite me deixou apreensivo, até lembrar que o vizinho tinha adotado um cachorro recentemente.",
+    "segmented_text": "<MEDO-Inicio>O latido alto no meio da noite me deixou apreensivo<MEDO-Fim><NEUTRO-Inicio>, até lembrar que o vizinho tinha adotado um cachorro recentemente.<NEUTRO-Fim>"
+  },
+
+  {
+    "sentence": "Eu fiquei feliz ao encontrar meu restaurante favorito aberto, mas fiquei frustrado ao ver que tinham alterado o cardápio inteiro.",
+    "segmented_text": "<FELIZ-Inicio>Eu fiquei feliz ao encontrar meu restaurante favorito aberto<FELIZ-Fim><SAD-Inicio>, mas fiquei frustrado ao ver que tinham alterado o cardápio inteiro.<SAD-Fim>"
+  },
+  {
+    "sentence": "O tremor repentino na janela me deixou assustado, mas percebi que era apenas o vento forte daquela tarde.",
+    "segmented_text": "<MEDO-Inicio>O tremor repentino na janela me deixou assustado<MEDO-Fim><NEUTRO-Inicio>, mas percebi que era apenas o vento forte daquela tarde.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava contente com o aroma do café recém-passado, até notar que havia derramado metade no balcão.",
+    "segmented_text": "<FELIZ-Inicio>Eu estava contente com o aroma do café recém-passado<FELIZ-Fim><SAD-Inicio>, até notar que havia derramado metade no balcão.<SAD-Fim>"
+  },
+  {
+    "sentence": "A notificação piscou subitamente na tela, me surpreendendo, mas era apenas uma atualização de software.",
+    "segmented_text": "<SURPRESA-Inicio>A notificação piscou subitamente na tela, me surpreendendo<SURPRESA-Fim><NEUTRO-Inicio>, mas era apenas uma atualização de software.<NEUTRO-Fim>"
+  },
+  {
+    "sentence": "Eu estava irritado com a confusão no escritório, mas acabei me animando quando chamaram todos para um lanche surpresa.",
+    "segmented_text": "<RAIVA-Inicio>Eu estava irritado com a confusão no escritório<RAIVA-Fim><FELIZ-Inicio>, mas acabei me animando quando chamaram todos para um lanche surpresa.<FELIZ-Fim>"
   }
 ]
+
