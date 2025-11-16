@@ -920,7 +920,7 @@
   },
   {
     "sentence": "Eu estava satisfeito por finalmente organizar minha mesa, até encontrar aquela pilha de documentos atrasados, o que me desanimou de imediato.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito por finalmente organizar minha mesa<FELIZ-Fim><SAD-Inicio>, até encontrar aquela pilha de documentos atrasados, o que me desanimou de imediato.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito por finalmente organizar minha mesa<FELIZ-Fim><TRISTE-Inicio>, até encontrar aquela pilha de documentos atrasados, o que me desanimou de imediato.<TRISTE-Fim>"
   },
   {
     "sentence": "O estrondo repentino vindo da cozinha me fez congelar, mas quando percebi que era só a janela batendo, segui meu dia como se nada tivesse acontecido.",
@@ -932,7 +932,7 @@
   },
   {
     "sentence": "Quando vi o aviso de entrega atrasada, fiquei decepcionado, mas logo me surpreendi ao receber uma notificação dizendo que o pacote seria entregue ainda hoje.",
-    "segmented_text": "<SAD-Inicio>Quando vi o aviso de entrega atrasada, fiquei decepcionado<SAD-Fim><SURPRESA-Inicio>, mas logo me surpreendi ao receber uma notificação dizendo que o pacote seria entregue ainda hoje.<SURPRESA-Fim>"
+    "segmented_text": "<TRISTE-Inicio>Quando vi o aviso de entrega atrasada, fiquei decepcionado<TRISTE-Fim><SURPRESA-Inicio>, mas logo me surpreendi ao receber uma notificação dizendo que o pacote seria entregue ainda hoje.<SURPRESA-Fim>"
   },
 
   {
@@ -941,7 +941,7 @@
   },
   {
     "sentence": "Estava radiante por concluir o projeto cedo, mas desanimei completamente ao notar que havia usado a versão errada do arquivo.",
-    "segmented_text": "<FELIZ-Inicio>Estava radiante por concluir o projeto cedo<FELIZ-Fim><SAD-Inicio>, mas desanimei completamente ao notar que havia usado a versão errada do arquivo.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Estava radiante por concluir o projeto cedo<FELIZ-Fim><TRISTE-Inicio>, mas desanimei completamente ao notar que havia usado a versão errada do arquivo.<TRISTE-Fim>"
   },
   {
     "sentence": "Assim que percebi que o supervisor se aproximava rapidamente, temi ter esquecido alguma tarefa, mas ele só queria confirmar um horário.",
@@ -958,7 +958,7 @@
 
   {
     "sentence": "Quando encontrei minha carteira perdida, senti um alívio imediato, embora ficasse chateado ao perceber que o dinheiro havia sumido.",
-    "segmented_text": "<FELIZ-Inicio>Quando encontrei minha carteira perdida, senti um alívio imediato<FELIZ-Fim><SAD-Inicio>, embora ficasse chateado ao perceber que o dinheiro havia sumido.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Quando encontrei minha carteira perdida, senti um alívio imediato<FELIZ-Fim><TRISTE-Inicio>, embora ficasse chateado ao perceber que o dinheiro havia sumido.<TRISTE-Fim>"
   },
   {
     "sentence": "O barulho repentino do alarme me deixou apavorado, mas quando vi que era apenas um teste, pude continuar meu dia normalmente.",
@@ -987,7 +987,7 @@
   },
   {
     "sentence": "Eu estava animado para mostrar minha apresentação, mas fiquei devastado quando o computador travou exatamente no momento da exibição.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava animado para mostrar minha apresentação<FELIZ-Fim><SAD-Inicio>, mas fiquei devastado quando o computador travou exatamente no momento da exibição.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava animado para mostrar minha apresentação<FELIZ-Fim><TRISTE-Inicio>, mas fiquei devastado quando o computador travou exatamente no momento da exibição.<TRISTE-Fim>"
   },
   {
     "sentence": "O estranho movimento na cortina me deixou inquieto, até perceber que era apenas o vento passando pelas frestas.",
@@ -995,7 +995,7 @@
   },
   {
     "sentence": "Assim que o anúncio apareceu na tela, senti uma alegria súbita, mas ela se desfez quando percebi que a promoção já havia expirado.",
-    "segmented_text": "<FELIZ-Inicio>Assim que o anúncio apareceu na tela, senti uma alegria súbita<FELIZ-Fim><SAD-Inicio>, mas ela se desfez quando percebi que a promoção já havia expirado.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Assim que o anúncio apareceu na tela, senti uma alegria súbita<FELIZ-Fim><TRISTE-Inicio>, mas ela se desfez quando percebi que a promoção já havia expirado.<TRISTE-Fim>"
   },
 
   {
@@ -1008,7 +1008,7 @@
   },
   {
     "sentence": "Fiquei animado ao ver que meu nome estava na lista de selecionados, mas o entusiasmo diminuiu ao notar que o evento seria em outra cidade.",
-    "segmented_text": "<FELIZ-Inicio>Fiquei animado ao ver que meu nome estava na lista de selecionados<FELIZ-Fim><SAD-Inicio>, mas o entusiasmo diminuiu ao notar que o evento seria em outra cidade.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Fiquei animado ao ver que meu nome estava na lista de selecionados<FELIZ-Fim><TRISTE-Inicio>, mas o entusiasmo diminuiu ao notar que o evento seria em outra cidade.<TRISTE-Fim>"
   },
   {
     "sentence": "A porta rangendo atrás de mim me deixou desconfortável, mas era apenas o vento atravessando o corredor.",
@@ -1025,7 +1025,7 @@
   },
   {
     "sentence": "Eu estava satisfeito com meu progresso no curso, mas quase desabei quando percebi que tinha esquecido de enviar a avaliação final.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito com meu progresso no curso<FELIZ-Fim><SAD-Inicio>, mas quase desabei quando percebi que tinha esquecido de enviar a avaliação final.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito com meu progresso no curso<FELIZ-Fim><TRISTE-Inicio>, mas quase desabei quando percebi que tinha esquecido de enviar a avaliação final.<TRISTE-Fim>"
   },
   {
     "sentence": "O anúncio inesperado sobre a mudança de horário me deixou surpreso, mas não alterou em nada a rotina do meu dia.",
@@ -1042,7 +1042,7 @@
 
   {
     "sentence": "Estava contente por ter um tempo livre, mas a alegria se apagou quando percebi que tinha esquecido um compromisso importante.",
-    "segmented_text": "<FELIZ-Inicio>Estava contente por ter um tempo livre<FELIZ-Fim><SAD-Inicio>, mas a alegria se apagou quando percebi que tinha esquecido um compromisso importante.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Estava contente por ter um tempo livre<FELIZ-Fim><TRISTE-Inicio>, mas a alegria se apagou quando percebi que tinha esquecido um compromisso importante.<TRISTE-Fim>"
   },
   {
     "sentence": "A movimentação inesperada no quintal fez meu coração disparar, mas ao verificar, encontrei apenas o cachorro do vizinho explorando tudo.",
@@ -1050,7 +1050,7 @@
   },
   {
     "sentence": "Eu estava orgulhoso do meu progresso, mas fiquei desanimado ao notar que meu esforço ainda não seria suficiente para atingir o prazo.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava orgulhoso do meu progresso<FELIZ-Fim><SAD-Inicio>, mas fiquei desanimado ao notar que meu esforço ainda não seria suficiente para atingir o prazo.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava orgulhoso do meu progresso<FELIZ-Fim><TRISTE-Inicio>, mas fiquei desanimado ao notar que meu esforço ainda não seria suficiente para atingir o prazo.<TRISTE-Fim>"
   },
   {
     "sentence": "A explosão distante me fez estremecer, mas rapidamente concluí que era apenas uma obra na rua de trás.",
@@ -1071,7 +1071,7 @@
   },
   {
     "sentence": "Fiquei animado com a possibilidade de viajar, mas logo me frustrei ao ver que as passagens estavam muito além do meu orçamento.",
-    "segmented_text": "<FELIZ-Inicio>Fiquei animado com a possibilidade de viajar<FELIZ-Fim><SAD-Inicio>, mas logo me frustrei ao ver que as passagens estavam muito além do meu orçamento.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Fiquei animado com a possibilidade de viajar<FELIZ-Fim><TRISTE-Inicio>, mas logo me frustrei ao ver que as passagens estavam muito além do meu orçamento.<TRISTE-Fim>"
   },
   {
     "sentence": "A mensagem inesperada me deixou surpreso, embora o conteúdo fosse apenas uma confirmação de rotina.",
@@ -1087,7 +1087,7 @@
   },
   {
     "sentence": "A alegria de encontrar meu livro favorito na prateleira me tomou por completo, embora ficasse frustrado ao perceber que alguém havia arrancado algumas páginas.",
-    "segmented_text": "<FELIZ-Inicio>A alegria de encontrar meu livro favorito na prateleira me tomou por completo<FELIZ-Fim><SAD-Inicio>, embora ficasse frustrado ao perceber que alguém havia arrancado algumas páginas.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>A alegria de encontrar meu livro favorito na prateleira me tomou por completo<FELIZ-Fim><TRISTE-Inicio>, embora ficasse frustrado ao perceber que alguém havia arrancado algumas páginas.<TRISTE-Fim>"
   },
   {
     "sentence": "O alerta repentino no celular me fez pular, mas ao verificar, vi que era apenas uma promoção aleatória.",
@@ -1104,7 +1104,7 @@
 
   {
     "sentence": "Eu estava radiante com a aprovação do projeto, mas a alegria evaporou ao perceber que o prazo de execução havia sido reduzido pela metade.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava radiante com a aprovação do projeto<FELIZ-Fim><SAD-Inicio>, mas a alegria evaporou ao perceber que o prazo de execução havia sido reduzido pela metade.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava radiante com a aprovação do projeto<FELIZ-Fim><TRISTE-Inicio>, mas a alegria evaporou ao perceber que o prazo de execução havia sido reduzido pela metade.<TRISTE-Fim>"
   },
   {
     "sentence": "A batida inesperada no vidro me assustou, mas logo ri ao ver que era só um pássaro curioso.",
@@ -1120,7 +1120,7 @@
   },
   {
     "sentence": "Eu estava animado para começar meu novo hobby, mas perdi o entusiasmo ao ver que o material era mais difícil de usar do que eu imaginava.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava animado para começar meu novo hobby<FELIZ-Fim><SAD-Inicio>, mas perdi o entusiasmo ao ver que o material era mais difícil de usar do que eu imaginava.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava animado para começar meu novo hobby<FELIZ-Fim><TRISTE-Inicio>, mas perdi o entusiasmo ao ver que o material era mais difícil de usar do que eu imaginava.<TRISTE-Fim>"
   },
 
   {
@@ -1129,7 +1129,7 @@
   },
   {
     "sentence": "Eu estava contente com meu desempenho na entrevista, mas fiquei arrasado ao receber a mensagem de que outra pessoa havia sido escolhida.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava contente com meu desempenho na entrevista<FELIZ-Fim><SAD-Inicio>, mas fiquei arrasado ao receber a mensagem de que outra pessoa havia sido escolhida.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava contente com meu desempenho na entrevista<FELIZ-Fim><TRISTE-Inicio>, mas fiquei arrasado ao receber a mensagem de que outra pessoa havia sido escolhida.<TRISTE-Fim>"
   },
   {
     "sentence": "A caixa misteriosa em frente à porta me deixou surpreso, até notar que era um engano e o endereço não correspondia ao meu.",
@@ -1146,7 +1146,7 @@
 
   {
     "sentence": "Fiquei empolgado ao ver que meu pacote finalmente havia saído para entrega, mas desanimei quando o status mudou para atrasado minutos depois.",
-    "segmented_text": "<FELIZ-Inicio>Fiquei empolgado ao ver que meu pacote finalmente havia saído para entrega<FELIZ-Fim><SAD-Inicio>, mas desanimei quando o status mudou para atrasado minutos depois.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Fiquei empolgado ao ver que meu pacote finalmente havia saído para entrega<FELIZ-Fim><TRISTE-Inicio>, mas desanimei quando o status mudou para atrasado minutos depois.<TRISTE-Fim>"
   },
   {
     "sentence": "O anúncio repentino da diretoria me pegou desprevenido, embora nada mudasse significativamente na minha rotina.",
@@ -1162,7 +1162,7 @@
   },
   {
     "sentence": "Eu estava satisfeito com o novo aplicativo, mas fiquei frustrado ao perceber que ele exigia permissões desnecessárias.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito com o novo aplicativo<FELIZ-Fim><SAD-Inicio>, mas fiquei frustrado ao perceber que ele exigia permissões desnecessárias.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava satisfeito com o novo aplicativo<FELIZ-Fim><TRISTE-Inicio>, mas fiquei frustrado ao perceber que ele exigia permissões desnecessárias.<TRISTE-Fim>"
   },
 
   {
@@ -1175,7 +1175,7 @@
   },
   {
     "sentence": "Meu coração acelerou ao perceber que tinha perdido o ônibus, mas consegui relaxar ao ver que outro chegaria em poucos minutos.",
-    "segmented_text": "<SAD-Inicio>Meu coração acelerou ao perceber que tinha perdido o ônibus<SAD-Fim><FELIZ-Inicio>, mas consegui relaxar ao ver que outro chegaria em poucos minutos.<FELIZ-Fim>"
+    "segmented_text": "<TRISTE-Inicio>Meu coração acelerou ao perceber que tinha perdido o ônibus<TRISTE-Fim><FELIZ-Inicio>, mas consegui relaxar ao ver que outro chegaria em poucos minutos.<FELIZ-Fim>"
   },
   {
     "sentence": "Eu estava frustrado com a longa fila, mas tudo mudou quando um funcionário abriu um novo caixa bem na minha frente.",
@@ -1188,7 +1188,7 @@
 
   {
     "sentence": "Eu fiquei animado ao encontrar uma vaga perto da entrada, mas me desanimei ao perceber que era exclusiva para deficientes.",
-    "segmented_text": "<FELIZ-Inicio>Eu fiquei animado ao encontrar uma vaga perto da entrada<FELIZ-Fim><SAD-Inicio>, mas me desanimei ao perceber que era exclusiva para deficientes.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu fiquei animado ao encontrar uma vaga perto da entrada<FELIZ-Fim><TRISTE-Inicio>, mas me desanimei ao perceber que era exclusiva para deficientes.<TRISTE-Fim>"
   },
   {
     "sentence": "O estrondo vindo da rua me assustou, mas logo percebi que era apenas um caminhão descarregando caixas.",
@@ -1213,7 +1213,7 @@
   },
   {
     "sentence": "Eu estava animado para cozinhar algo novo, mas fiquei chateado quando percebi que faltava o ingrediente principal.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava animado para cozinhar algo novo<FELIZ-Fim><SAD-Inicio>, mas fiquei chateado quando percebi que faltava o ingrediente principal.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava animado para cozinhar algo novo<FELIZ-Fim><TRISTE-Inicio>, mas fiquei chateado quando percebi que faltava o ingrediente principal.<TRISTE-Fim>"
   },
   {
     "sentence": "A carta inesperada me surpreendeu, embora o conteúdo fosse apenas uma pesquisa de opinião.",
@@ -1230,7 +1230,7 @@
 
   {
     "sentence": "Eu fiquei feliz ao encontrar meu restaurante favorito aberto, mas fiquei frustrado ao ver que tinham alterado o cardápio inteiro.",
-    "segmented_text": "<FELIZ-Inicio>Eu fiquei feliz ao encontrar meu restaurante favorito aberto<FELIZ-Fim><SAD-Inicio>, mas fiquei frustrado ao ver que tinham alterado o cardápio inteiro.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu fiquei feliz ao encontrar meu restaurante favorito aberto<FELIZ-Fim><TRISTE-Inicio>, mas fiquei frustrado ao ver que tinham alterado o cardápio inteiro.<TRISTE-Fim>"
   },
   {
     "sentence": "O tremor repentino na janela me deixou assustado, mas percebi que era apenas o vento forte daquela tarde.",
@@ -1238,7 +1238,7 @@
   },
   {
     "sentence": "Eu estava contente com o aroma do café recém-passado, até notar que havia derramado metade no balcão.",
-    "segmented_text": "<FELIZ-Inicio>Eu estava contente com o aroma do café recém-passado<FELIZ-Fim><SAD-Inicio>, até notar que havia derramado metade no balcão.<SAD-Fim>"
+    "segmented_text": "<FELIZ-Inicio>Eu estava contente com o aroma do café recém-passado<FELIZ-Fim><TRISTE-Inicio>, até notar que havia derramado metade no balcão.<TRISTE-Fim>"
   },
   {
     "sentence": "A notificação piscou subitamente na tela, me surpreendendo, mas era apenas uma atualização de software.",
@@ -1249,4 +1249,5 @@
     "segmented_text": "<RAIVA-Inicio>Eu estava irritado com a confusão no escritório<RAIVA-Fim><FELIZ-Inicio>, mas acabei me animando quando chamaram todos para um lanche surpresa.<FELIZ-Fim>"
   }
 ]
+
 
